@@ -1,0 +1,10 @@
+/*
+/*/
+!.gitignore
+!*.csv
+!*.py
+!/sh/
+/sh/__*__.sh
+perform.py
+
+!/logs/
